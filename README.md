@@ -27,3 +27,13 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Running
+
+In order to run the website itself, you can open the folder location once it is installed on your device and select either of the html files. This will open up a new session in your default browser. If you make any changes to the code, you will need to refresh the browser (live preview will refresh whenever a change is detected).
+
+## References
+
+ALignment:
+https://www.w3.org/TR/html401/present/graphics.html
+
