@@ -7,16 +7,16 @@ body {
   text-align: right;
   font-style: italic;
   list-style-type: none;
-  padding: none;
-  margin: none;
+  padding: 0;
+  margin: 0;
 }
 
 .recipient-column {
   text-align: left;
   font-style: italic;
   list-style-type: none;
-  padding: none;
-  margin: none;
+  padding: 0;
+  margin: 0;
 }
 
 h1 {
