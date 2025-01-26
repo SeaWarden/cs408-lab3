@@ -5,6 +5,10 @@ body {
 
 .sender-column {
   text-align: right;
+  font-style: italic;
+  list-style-type: none;
+  padding: none;
+  margin: none;
 }
 
 h1 {

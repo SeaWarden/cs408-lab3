@@ -36,4 +36,13 @@ In order to run the website itself, you can open the folder location once it is 
 
 ALignment:
 https://www.w3.org/TR/html401/present/graphics.html
+https://www.w3schools.com/css/css_selectors.asp
+
+Lists:
+https://www.w3schools.com/html/html_lists.asp
+https://www.w3schools.com/howto/howto_css_list_without_bullets.asp
+
+Comments:
+https://www.w3schools.com/html/html_comments.asp
+
 
